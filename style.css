@@ -75,9 +75,6 @@ body {
   width: 610px;
 }
 
-.hiden-img {
-  display: none;
-}
 .email-div {
   position: relative;
   display: flex;
